@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "Remote Sensing Diary"
+  author: "Jinghong Ou"
+  date: "1/19/2023"
+  chapters:
+    - index.qmd
+    - Diary1.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
