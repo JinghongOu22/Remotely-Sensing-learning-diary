@@ -17,8 +17,6 @@ format:
     theme: cosmo
   pdf:
     documentclass: scrreprt
-    
-output-dir: docs
 
 editor: visual
 
