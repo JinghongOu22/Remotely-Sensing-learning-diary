@@ -1,45 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Remote Sensing Diary",
-    "section": "",
-    "text": "Preface\nThis is Jinghong Ou’s learning diary of remotely sensing."
-  },
-  {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
-    "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
-  },
-  {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
-    "section": "",
-    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
-  },
-  {
     "objectID": "Diary1.html#summary",
     "href": "Diary1.html#summary",
     "title": "1  Diary: Introduction",
     "section": "1.1 Summary",
     "text": "1.1 Summary\nThe content of this week mainly outlines the content of the remoting sensing course from the aspects of passive and active sensor, data format type of remoting sensing, and data resolution type. Sensors are mainly divided into two types: passive and active. Both of them process the collected electromagnetic waves, with the difference that passive waves are collected from sources such as the sun, while active waves are collected from waves reflected after the sensor actively emits them. The data format is mainly divided into two aspects: raster and LiDAR, and raster is the main data type in this field. Resolution is divided into four aspects: spectral, spatial, temporal, and radiometric.\n\n\n\nSummary of introduction lecture (made by author, 2023)\n\n\nRegarding sensors, they are mainly mounted on platforms such as satellites, planes, drones, phones, and other handheld devices (1?). Common sensors include ultraviolet remote sensing sensors, visible light remote sensing sensors, infrared remote sensing sensors, and microwave remote sensing sensors (2?). Among these types of remote sensing sensors, common devices include cameras, scanners, multispectral cameras, etc., and common devices in microwave remote sensing sensors include radiometers, altimeters, real aperture radars, and synthetic aperture radars. In the following, I will mainly introduce my learning about the application of synthetic aperture radar."
-  },
-  {
-    "objectID": "Diary1.html#section",
-    "href": "Diary1.html#section",
-    "title": "1  Diary: Introduction",
-    "section": "1.2 ",
-    "text": "1.2"
   },
   {
     "objectID": "Diary1.html#sar-application",
